@@ -1,4 +1,4 @@
-- name: Install nginx
+- name: INstall nginx
   host: APP
   become: true
   task:
